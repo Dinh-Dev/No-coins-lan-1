@@ -16,7 +16,7 @@
 }
 .head{
     display: flex;
-    gap: 850px;
+    gap: 855px;
 }
 .head_baby{
     font-family: "Be Vietnam Pro", sans-serif;
@@ -58,7 +58,7 @@
     justify-self: center;
     justify-content: center;
     align-items: center;
-    margin-left: 200px;
+    margin-left: 210px;
 
 }
 .b3{

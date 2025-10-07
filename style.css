@@ -32,6 +32,7 @@
     align-items: center;
     gap: 5px;
     border-radius: 8px;
+    background-color: white;
 }
 .black{
     width: 15px;
